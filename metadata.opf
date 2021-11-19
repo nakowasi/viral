@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">95</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1d02c35c-3185-4ccf-a752-0f022f792d6d</dc:identifier>
+        <dc:title>Viral</dc:title>
+        <dc:creator opf:file-as="Ridley, Matt" opf:role="aut">Ridley, Matt</dc:creator>
+        <dc:creator opf:file-as="Ridley, Matt" opf:role="aut">Chan, Alina</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.32.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-11-15T16:00:00+00:00</dc:date>
+        <dc:publisher>Harper</dc:publisher>
+        <dc:identifier opf:scheme="ASIN">B09794TRBB</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Ridley, Matt&quot;: &quot;&quot;, &quot;Chan, Alina&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2021-11-18T03:50:34+00:00"/>
+        <meta name="calibre:title_sort" content="Viral"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>
